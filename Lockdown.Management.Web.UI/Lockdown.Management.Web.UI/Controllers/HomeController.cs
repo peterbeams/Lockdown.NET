@@ -16,5 +16,19 @@ namespace Lockdown.Management.Web.UI.Controllers
             return View();
         }
 
+        public ActionResult Roles()
+        {
+            return View();
+        }
+
+        public ActionResult Tasks()
+        {
+            return View();
+        }
+
+        public ActionResult TasksInRoles()
+        {
+            return View();
+        }
     }
 }
